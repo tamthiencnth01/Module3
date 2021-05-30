@@ -1,0 +1,14 @@
+<component name="ArtifactManager">
+  <artifact type="war" name="TH01_QuanLyUser:war">
+    <output-path>$PROJECT_DIR$/target</output-path>
+    <properties id="maven-jee-properties">
+      <options>
+        <module>TH01_QuanLyUser</module>
+        <packaging>war</packaging>
+      </options>
+    </properties>
+    <root id="archive" name="TH01_QuanLyUser-1.0-SNAPSHOT.war">
+      <element id="artifact" artifact-name="TH01_QuanLyUser:war exploded" />
+    </root>
+  </artifact>
+</component>
